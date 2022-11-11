@@ -1,0 +1,27 @@
+body {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+    background-color: lightgray;
+}
+.border-top{
+    border-color: gray !important;
+}
+#logo-nav {
+    height: 75px;
+}
+#JAP {
+    color: #00007c;
+}
+#cover {
+    margin-top: 10em;
+    margin-bottom: 10em;
+}
+#cover p {
+    font-size: 3em;
+}
+
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+    background-color: #57556c !important;
+}
